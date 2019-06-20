@@ -112,9 +112,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "이상욱"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "개발자를 꿈꾸는 이상욱입니다.."
   location         : "Somewhere"
   email            :
   links:
