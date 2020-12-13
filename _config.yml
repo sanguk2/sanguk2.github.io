@@ -23,8 +23,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-Kore_KR"
 title                    : "Sanguk's Homepage"
 title_separator          : "-"
-name                     : "Sanguk"
-description              : "개발자를 꿈꾸고 있는 이상욱입니다.."
+name                     : "Sanguk Lee"
+description              : "イ・サンウク"
 url                      : "https://sanguk2.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "이상욱"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "개발자를 꿈꾸는 이상욱입니다.."
+  bio              : "イ・サンウク"
   location         : "Somewhere"
   email            :
   links:
