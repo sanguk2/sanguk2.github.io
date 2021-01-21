@@ -20,6 +20,7 @@
 
 title: sanguk's blog
 email: sanguk2794@gmail.com
+
 description: >- # this means to ignore newlines until "baseurl:"
 
   일본어랑 영어 공부도 해야되는데..
@@ -34,6 +35,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+author:
+  name: sanguk Lee (이상욱, イ・サンウク)
+  email: sanguk2794@gmail.com
+
 # Defaults
 defaults:
   # _posts
@@ -47,3 +52,6 @@ defaults:
       comments: # true
       share: true
       related: true
+
+collections:
+  - staff_members
